@@ -17,5 +17,6 @@ public class Teste {
 	
 	public void status() {
 		System.out.println("Hello World, " + this.nome);
+		System.out.println("AAAAAAAAAAAA");
 	}
 }
