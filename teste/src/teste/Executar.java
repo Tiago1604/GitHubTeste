@@ -6,7 +6,8 @@ public class Executar {
 		Teste p1 = new Teste();
 		p1.cadastrarNome("Luffy");
 		p1.status();
-		system.out.println("Funcionou krai!");
+		System.out.println("Funcionou krai!");
+		System.out.println("FUNCIONOU DE NOVO KRAI");
 	}
 
 }
